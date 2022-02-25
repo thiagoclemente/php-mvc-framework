@@ -1,0 +1,15 @@
+{
+    "name": "thiago/php-mvc-framework",
+    "authors": [
+        {
+            "name": "Thiago Clemente",
+            "email": "thiago.clemente@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
